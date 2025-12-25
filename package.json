@@ -17,7 +17,7 @@
     "axios": "^1.6.8",
     "lottie-react": "^2.4.1",
     "next": "^15.5.3",
-    "nodemailer": "^6.10.1",
+    "nodemailer": "^7.0.12",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-fast-marquee": "^1.6.2",
